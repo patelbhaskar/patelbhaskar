@@ -1,5 +1,5 @@
-## Bhaskar Patel
+# Bhaskar Patel
 
-### Projects
+## MERN Projects
 ---
-[Blogging Platform](https://github.com/patelbhaskar/blog-platform)
+### 1. [Blogging Platform](https://github.com/patelbhaskar/blog-platform)
