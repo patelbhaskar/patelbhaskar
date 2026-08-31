@@ -10,3 +10,4 @@
 
 ## LeetCode
 [![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=patelbhaskar&theme=tokyonight&acceptance=false&reputation=false)](https://www.readmecodegen.com/leetcode-stats-generator/leetcode-stats-card-generator-for-github)
+![LeetCode Stats](https://leetcard.jacoblin.cool/patelbhaskar?theme=catppuccinMocha&font=Share&ext=contest)
